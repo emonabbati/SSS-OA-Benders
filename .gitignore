@@ -1,0 +1,19 @@
+
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+Manifest.toml
+
+# Data files
+*.xlsx
+*.csv
+!data/sample/*.csv
+
+# Results
+results/
+Figures/
+
+# OS files
+.DS_Store
+Thumbs.db
