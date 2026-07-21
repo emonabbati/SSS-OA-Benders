@@ -25,7 +25,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{alipour2026resilient,
-  title={Resilient supplier selection and order allocation problem integrated by Markov chain and Bayesian network-based disruption modeling},
+  title={Scenario-based resilient supplier selection and order allocation using unified Bayesian network disruption modeling and supplier availability analysis},
   author={Alipour, Z. and Monabbati, S.E.},
   note={Under review},
   year={2026}
